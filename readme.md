@@ -1,0 +1,3 @@
+Hello !! 
+This is the CLI application created using basic JS fundamentals.
+In this game, you can check whether you know regarding me......
